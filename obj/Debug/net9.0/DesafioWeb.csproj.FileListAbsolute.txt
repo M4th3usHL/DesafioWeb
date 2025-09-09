@@ -1,0 +1,9 @@
+C:\Users\brpro\OneDrive\Área de Trabalho\App\DesafioWeb\obj\Debug\net9.0\DesafioWeb.csproj.AssemblyReference.cache
+C:\Users\brpro\OneDrive\Área de Trabalho\App\DesafioWeb\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\brpro\OneDrive\Área de Trabalho\App\DesafioWeb\obj\Debug\net9.0\DesafioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brpro\OneDrive\Área de Trabalho\App\DesafioWeb\obj\Debug\net9.0\DesafioWeb.AssemblyInfoInputs.cache
+C:\Users\brpro\OneDrive\Área de Trabalho\App\DesafioWeb\obj\Debug\net9.0\DesafioWeb.AssemblyInfo.cs
+C:\Users\brpro\OneDrive\Área de Trabalho\App\DesafioWeb\obj\Debug\net9.0\DesafioWeb.csproj.CoreCompileInputs.cache
+C:\Users\brpro\OneDrive\Área de Trabalho\App\DesafioWeb\obj\Debug\net9.0\DesafioWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brpro\OneDrive\Área de Trabalho\App\DesafioWeb\obj\Debug\net9.0\DesafioWeb.RazorAssemblyInfo.cache
+C:\Users\brpro\OneDrive\Área de Trabalho\App\DesafioWeb\obj\Debug\net9.0\DesafioWeb.RazorAssemblyInfo.cs
